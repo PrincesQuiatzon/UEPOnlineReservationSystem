@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\UEPOnlineReservationSystem.props" />
-</Project>

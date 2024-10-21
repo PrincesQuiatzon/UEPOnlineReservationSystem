@@ -1,0 +1,52 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.ide
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider files
+.idea/
+
+# Rider's files
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# ASP.NET Core specific
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+wwwroot/images/
+appsettings.Development.json
+appsettings.*.json
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Other files
+*.db
+*.db-journal
+*.pdb
+
+# Local configuration files
+*.local
+*.config
+*.user

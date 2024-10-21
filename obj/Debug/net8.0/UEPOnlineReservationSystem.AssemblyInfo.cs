@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UEPOnlineReservationSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa88b45c7da1044fc389726ea37299c18d4d37b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff29d40e5dca6d0100f615986e0d37f98ab62d79")]
 [assembly: System.Reflection.AssemblyProductAttribute("UEPOnlineReservationSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UEPOnlineReservationSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
