@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('a0f71e72-109f-47e1-9722-3cf4895a5ac7.jpg'); /* Path to your image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the image */
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Full height */
+    display: flex; /* Center the container */
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 300px;
+    background-color: hsl(216, 26%, 96%);
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(25, 25, 25, 0.896);
+    margin: 100px auto; /* Center the form */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    width: 100%;
+    height: 40px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+p {
+    margin-top: 10px;
+}
