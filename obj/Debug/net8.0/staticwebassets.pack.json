@@ -5,6 +5,46 @@
       "PackagePath": "staticwebassets\\UEPOnlineReservationSystem.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\farmers.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\farmers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\kapihan.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kapihan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\images\\white-beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\white-beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
       "Id": "C:\\Users\\princ\\OneDrive\\Documents\\BSIT\\Capstone\\UEPOnlineReservationSystem\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
